@@ -1,0 +1,15 @@
+.element1{width:35%; height:15%; background-color:black; font-size:50px; color:white; font-family:sans-serif; }
+.element2{width:35%; height:85%; background-color:grey; color:white;font-size:30px;}
+.element3{width:65%; height:1000%; background-color:lightblue; color:white;}
+
+
+
+/*html,body{height:100%}*/
+li{list-style:none; border-bottom:black solid 1px}
+#conteneur{display:flex;
+flex-wrap:wrap;
+border:2px solid gold;
+flex-direction:column;
+height:100%;
+width:100%
+}
